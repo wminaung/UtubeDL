@@ -55,7 +55,7 @@ namespace UtubeDL
                 }
                 else
                 {
-                    MessageBox.Show("SomethingWrong! Please enter a valid url");
+                    MessageBox.Show("SomethingWrong!invalid url or check your internet connection.");
 
                 }
                 btnDownload.Enabled = true;
